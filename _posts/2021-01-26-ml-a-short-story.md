@@ -10,8 +10,9 @@ tags:
 ML stands for *Machine Learning* and is a sub-field of AI, or *Artificial Intelligence*, centered around how computers learn from
 data. Nowadays the expression has become familiar to anyone dealing with data related subjects. Sometimes it's even 
 the first considered tool for solving problems, even if it's not always the most appropriate.\\
-This post gives a quick overview of the history of ML, its basic principles, how it was first unconsidered and how it
-finally became the powerful machinery we hear about today.
+This post was built from a presentation I gave at work, providing a basic introduction to ML for the uninitiated. It aims
+at giving a quick overview of the history of ML, how it was first unconsidered and how it finally became the powerful 
+machinery we hear about today.
 
 ## Think like Turing
 
