@@ -12,10 +12,9 @@ engineering projects. Before joining Jellyfish, I worked as a data analytics eng
 building predictive models for on-site ore process optimisation.
 
 
-More broadly, I'm a STEM enthusiast passionate about pattern discovery and about how Stats, Linear Algebra and Computer
-Science combine to provide us with powerful frameworks for solving problems ranging from simple housing price prediction 
-to complex speech recognition. My research interests include machine learning, applied data science and computational 
-advertising.
+More broadly, I'm a STEM enthusiast passionate about pattern discovery and about how statistics, linear algebra and 
+computer science combine to provide us with powerful frameworks for solving problems. My research interests include 
+machine learning, applied data science and computational advertising.
 
 When not in front of a computer coding or reading papers while listening to France Musique, you'll most probably 
 find me training on my bike. I've been riding and building bikes since I was 8, racing on MTB, CX, track and road. 
