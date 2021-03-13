@@ -17,6 +17,6 @@ Science combine to provide us with powerful frameworks for solving problems rang
 to complex speech recognition. My research interests include machine learning, applied data science and computational 
 advertising.
 
-When I'm not in front of a computer, I'm most probably sitting on my bike saddle. I've been riding and building bikes 
-since I was 8, racing on MTB, CX, track and road. I love math, data science and data engineering. I do my best to 
-understand these universes well and explain them clearly.
+When not in front of a computer coding or reading papers while listening to France Musique, you'll most probably 
+find me training on my bike. I've been riding and building bikes since I was 8, racing on MTB, CX, track and road. 
+I love math, I love data science, and I do my best to understand how both apply to real-world scenarios.
