@@ -11,7 +11,7 @@ I'm a data scientist at [Jellyfish](https://www.jellyfish.com/en-us). From time 
 engineering projects.\\
 I love math, I love data science, and I do my best to apply both to real-world scenarios. 
 
-My research interests include machine learning, applied data science and computational advertising. More broadly, I'm a
+My research interests include probability theory, machine learning, and applied data science. More broadly, I'm a
 STEM enthusiast passionate about pattern discovery and how probability theory, statistics, and computer science combine
 to provide us with powerful frameworks for solving problems.
 
