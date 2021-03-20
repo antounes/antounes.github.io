@@ -11,7 +11,7 @@ I'm a data scientist at [Jellyfish](https://www.jellyfish.com/en-us). From time 
 engineering projects.\\
 I love math, I love machine learning, and I do my best to apply both to real-world scenarios. 
 
-My research interests include probability theory and natural language processing. More broadly, I'm a
+My research interests include probability theory, deep learning and natural language processing. More broadly, I'm a
 STEM enthusiast passionate about pattern discovery and how probability theory, statistics, and computer science combine
 to provide us with powerful frameworks for solving problems.
 
