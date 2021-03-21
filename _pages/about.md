@@ -9,7 +9,7 @@ redirect_from:
 
 I'm a data scientist at [Jellyfish](https://www.jellyfish.com/en-us). From time to time, I give a hand on data 
 engineering projects.\\
-I love math, I love machine learning, and I do my best to understand both clearly and use them well. 
+I love math, I love machine learning, and I like to understand both clearly and use them well. 
 
 My research interests include probability theory, deep learning and natural language processing. More broadly, I'm a
 STEM enthusiast passionate about pattern discovery and how probability theory, statistics, and computer science combine
