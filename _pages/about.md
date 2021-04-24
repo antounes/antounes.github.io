@@ -14,6 +14,6 @@ My research interests include data engineering, machine learning, and deep learn
 STEM enthusiast passionate about pattern discovery and how data analytics, math, and computer science 
 combine to provide us with powerful frameworks for solving problems.
 
-When not in front of a computer reading research papers or coding while listening to France Musique, you'll most 
+When not in front of a computer reading tech blogs, research papers or coding while listening to France Musique, you'll most 
 probably find me training on my bicycle. I've been building bikes and cycling since I was 8, racing in MTB, CX, track
 and on the road.
