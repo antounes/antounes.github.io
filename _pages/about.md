@@ -7,10 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Data Engineer at [Jellyfish](https://www.jellyfish.com/en-us). From time to time, I give a hand
-on machine learning engineering projects. I love data, I love machine learning, and I like to understand both clearly and use them well. 
+I'm a Machine Learning Engineer at [Jellyfish](https://www.jellyfish.com/en-us). From time to time, I give a hand
+on data engineering projects. I love data, I love machine learning, and I like to understand both clearly and use them well. 
 
-My work and research interests include cloud computing, data engineering, and machine learning. More broadly, I'm a
+My work and research interests include machine learning, data engineering, and cloud computing. More broadly, I'm a
 STEM enthusiast passionate about pattern discovery and how data analytics and computer science combine 
 to provide us with powerful frameworks for solving problems.
 
