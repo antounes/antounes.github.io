@@ -3,4 +3,5 @@ title:  "An engineer's journey towards certification"
 date:   2021-08-13
 ---
 
-my first post looks just fine
+After a few years working on Google Cloud Platform for carrying out tasks like storing log-level website files or
+performing basic SQL queries, I figured out that, sadly, I had only a (very) small view of what GCP was about. 
