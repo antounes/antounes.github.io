@@ -4,4 +4,5 @@ date:   2021-08-13
 ---
 
 After a few years working on Google Cloud Platform for carrying out tasks like storing log-level website files or
-performing basic SQL queries, I figured out that, sadly, I had only a (very) small view of what GCP was about. 
+performing basic SQL queries, I figured out that some global and wider view of how ML and data science stuff is done
+on GCP was painfully lacking.
