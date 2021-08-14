@@ -1,5 +1,5 @@
 ---
-title:  "An engineer's journey towards certification"
+title:  "An engineer's journey towards professional certification"
 date:   2021-08-13
 ---
 
