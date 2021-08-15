@@ -87,8 +87,8 @@ Professional Data Engineer.
 ## From Professional Data Engineer to Professional ML Engineer
 
 After the Professional Data Engineer certification, time was to take the Professional ML Engineer certification. Again,
-things were not so easy. I still needed to digest all the actual continuous training/serving/monitoring part, and be able
-to think about how to put things in production, not only about building shiny models. 
+things were not so easy. I still needed to digest all the actual continuous training / serving / monitoring part, and be able
+to think about how to put things in production, not only about building shiny models.
 
 Here is where I found the Professional Data Engineer certification and the Professional ML Engineer certification were
 pretty different. When thinking about the Professional Data Engineer certification preparation, you have to be prepared 
