@@ -6,11 +6,11 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "en-UK"
 title                    : "antounes' blog"
 title_separator          : "-"
 name                     : "Matthieu Brito Antunes"
-description              : "Data science @ Jellyfish "
+description              : "ML Engineer @ Jellyfish "
 url                      : https://antounes.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "antounes/antounes.github.io"
@@ -86,7 +86,7 @@ author:
   location         : "France"
   pubmed           :
   googlescholar    :
-  email            :
+  email            : "matthieu.brito.antunes@gmail.com"
   researchgate     :
   uri              :
   bitbucket        :
