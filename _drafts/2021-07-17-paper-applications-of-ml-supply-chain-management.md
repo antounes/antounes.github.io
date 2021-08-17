@@ -1,7 +1,5 @@
 ---
-title:  "Paper - Tirkolaee, E. B., Sadeghi, S., Mooseloo, F. M., Vandchali, H. R., & Aeini, S. (2021). Application of 
-Machine Learning in Supply Chain Management: A Comprehensive Overview of the Main Areas. Mathematical Problems in 
-Engineering, 2021."
+title:  "Paper - Application of Machine Learning in Supply Chain Management: A Comprehensive Overview of the Main Areas."
 date:   2021-07-17
 tags:
   - paper
@@ -41,4 +39,10 @@ Tested ML algorithms include
 * unsupervised learning algorithms (k-means, PCA, unsupervised neural networks)
 * semisupervised learning algorithms (self-training, transductive support vector machine)
 * ensemble learning (boosting, bagging)
+
+This was a very broad overview of the work that exists on the use of ML for supply chain management. 
+
+**Source** Tirkolaee, E. B., Sadeghi, S., Mooseloo, F. M., Vandchali, H. R., & Aeini, S. (2021). Application of 
+Machine Learning in Supply Chain Management: A Comprehensive Overview of the Main Areas. Mathematical Problems in 
+Engineering, 2021.
 
