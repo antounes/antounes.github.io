@@ -112,6 +112,10 @@ least the learning track will give you enough learning experience for projects y
 ## Useful links
 
 During my preparation, on top of the Google's guides, I used resources from several blogs and learning platforms. Most 
-of them are free to read, some are constrained to subscription. I build my own learning track strongly inspired by the 
-Google's guidelines, you can find it [here on Pluralsight](https://app.pluralsight.com/channels/details/579d2562-ed2f-460c-8efb-a646a6e25ced?s=1). 
+of them are free to read, some are constrained to subscription. One of my favourites was the [guide by Dmitri Lerko](https://deploy.live/blog/google-cloud-professional-machine-learning-engineer-certification-preparation-guide/), 
+his blog is a must-read too for who likes to discover about cloud platforms. The [Machine Learning Course](https://developers.google.com/machine-learning/crash-course)
+by Google was very helpful. [Google Cloud solutions guides](https://cloud.google.com/architecture#/technology=Machine_learning_and_artificial_intelligence_(ML%2FAI)) 
+also helped a lot when giving it a final wrap-up, but I wouldn't recommend delving into such guides at the beginning of 
+your learning, since they're very formal and detailed. I also built my own learning track strongly inspired by the Google's 
+guidelines, you can find it [here on Pluralsight](https://app.pluralsight.com/channels/details/579d2562-ed2f-460c-8efb-a646a6e25ced?s=1). 
 This article has not been sponsored by any author or company.
