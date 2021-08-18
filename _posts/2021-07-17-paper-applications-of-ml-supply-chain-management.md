@@ -42,7 +42,8 @@ Tested ML algorithms include
 
 This was a very broad overview of the work that exists on the use of ML for supply chain management. 
 
-**Source** Tirkolaee, E. B., Sadeghi, S., Mooseloo, F. M., Vandchali, H. R., & Aeini, S. (2021). Application of 
+## References
+Tirkolaee, E. B., Sadeghi, S., Mooseloo, F. M., Vandchali, H. R., & Aeini, S. (2021). Application of 
 Machine Learning in Supply Chain Management: A Comprehensive Overview of the Main Areas. Mathematical Problems in 
 Engineering, 2021.
 
