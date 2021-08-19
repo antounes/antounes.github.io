@@ -7,8 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Machine Learning Engineer at [Jellyfish](https://www.jellyfish.com/en-us). I love data, I love machine learning, 
-and I like to understand both clearly and use them well. 
+I'm a Machine Learning Engineer at [SFEIR](https://www.sfeir.com/fr/) working as a consultant. I love data, I love machine 
+learning, and I like to understand both clearly and use them well. 
 
 My work and research interests include machine learning, applied data science, and cloud computing. More broadly, I'm a
 STEM enthusiast passionate about pattern discovery and how data analytics and computer science combine to provide us with 
